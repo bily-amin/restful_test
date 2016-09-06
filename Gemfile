@@ -7,6 +7,7 @@ gem 'rails', '3.2.13'
 
 gem 'mysql2', '0.3.18'
 gem 'kaminari', '0.16.3'
+gem 'pg'
 
 # Gems used only for assets and not required
 # in production environments by default.
